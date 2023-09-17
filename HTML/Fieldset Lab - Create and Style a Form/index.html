@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>Fieldset Lab</title>
+        <link rel="stylesheet" href="styles.css" />
+    </head>
+
+    <body>
+        <form action="" id="form">
+            <fieldset>
+                <legend>Personal Information</legend>
+
+                <div class="container">
+                    <label for="username">Username</label>
+                    <input type="text" id="username" />
+
+                    <label for="about">About</label>
+                    <textarea id="about"></textarea>
+
+                    <label for="skills">Skills</label>
+                    <select id="skills">
+                        <option value="" selected>-- Choose --</option>
+                        <option value="1">Frontend</option>
+                        <option value="2">Backend</option>
+                        <option value="3">Fullstack</option>
+                    </select>
+                </div>
+            </fieldset>
+
+            <br />
+
+            <fieldset>
+                <legend>Education Details</legend>
+
+                <div class="container">
+                    <label for="institution">Institution Name</label>
+                    <input type="text" id="institution" />
+
+                    <label for="course-details">Course Details</label>
+                    <textarea id="course-details"></textarea>
+
+                    <label for="course">Course</label>
+                    <select id="course">
+                        <option value="" selected>-- Choose --</option>
+                        <option value="1">B.tech</option>
+                        <option value="2">>B.Sc</option>
+                        <option value="3">B.com</option>
+                        <option value="4">B.A.</option>
+                    </select>
+                </div>
+            </fieldset>
+
+            <br />
+
+            <fieldset>
+                <legend>Work Experience</legend>
+
+                <div class="container">
+                    <label for="company">Company Name</label>
+                    <input type="text" id="company" />
+
+                    <label for="description">Description</label>
+                    <textarea id="description"></textarea>
+
+                    <label for="experience">Experience</label>
+                    <select id="experience">
+                        <option value="" selected>-- Choose --</option>
+                        <option value="0">Fresher</option>
+                        <option value="2-3">2-3 Years</option>
+                        <option value="3-5">3-5 Years</option>
+                        <option value=">5">>5 Years</option>
+                    </select>
+                </div>
+            </fieldset>
+        </form>
+    </body>
+
+</html>

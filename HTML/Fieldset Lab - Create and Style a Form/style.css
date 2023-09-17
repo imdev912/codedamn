@@ -1,0 +1,19 @@
+.container {
+    display: grid;
+    gap: 10px 0px;
+}
+
+fieldset {
+    background-color: #f1f1f1;
+}
+
+legend {
+    color: #3E7AFF;
+    font-size: 18px;
+}
+
+input,
+textarea,
+select {
+    padding: 10px;
+}
