@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>Fieldset Tag Lab</title>
+
+        <style>
+            #form {
+                max-width: 400px;
+            }
+
+            .grid-container {
+                display: grid;
+                grid-template: repeat(2, 1fr) / 1fr 3fr;
+                gap: 10px 0px;
+            }
+        </style>
+    </head>
+
+    <body>
+        <form action="" id="form">
+            <fieldset>
+                <legend>User Information</legend>
+
+                <div class="grid-container">
+                    <label for="username" class="grid-item">Username</label>
+                    <input type="text" id="username" class="grid-item" />
+
+                    <label for="email" class="grid-item">Email</label>
+                    <input type="email" id="email" class="grid-item">
+                </div>
+            </fieldset>
+        </form>
+    </body>
+
+</html>
