@@ -1,0 +1,15 @@
+# Compiled Object Files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Compiled Dynamic Libraries
+*.so
+*.dll
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
