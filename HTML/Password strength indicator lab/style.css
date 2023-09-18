@@ -1,0 +1,25 @@
+#password {
+    border: 1px solid;
+    outline: none;
+}
+
+.very-weak,
+.weak {
+    color: red;
+    border-color: red;
+}
+
+.medium {
+    color: yellowgreen;
+    border-color: yellowgreen;
+}
+
+.strong,
+.very-strong {
+    color: green;
+    border-color: green;
+}
+
+#strengthIndicator {
+    border: none;
+}
