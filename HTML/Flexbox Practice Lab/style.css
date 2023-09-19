@@ -1,0 +1,26 @@
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: palevioletred;
+    gap: 10px;
+    padding: 10px;
+}
+
+.flex-items {
+    width: 100px;
+    height: 100px;
+}
+
+.item-1 {
+    background-color: yellow;
+}
+
+.item-2 {
+    background-color: yellowgreen;
+}
+
+.item-3 {
+    background-color: lightblue;
+}
