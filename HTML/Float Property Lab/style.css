@@ -1,0 +1,16 @@
+#leftBox,
+#rightBox {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    float: left;
+    margin: 10px;
+}
+
+#leftBox {
+    background-color: yellow;
+}
+
+#rightBox {
+    background-color: greenyellow;
+}
