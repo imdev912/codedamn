@@ -1,0 +1,3 @@
+In this lab, you will explore how to use CSS variables (also known as custom properties) to create a more modular and maintainable styling. You will create an index.html file with a div element and a CSS variable --primaryColor with a color value. Then, you'll use this CSS variable to set the background color of the div element.
+
+Additionally, you will create a JavaScript function that changes the value of the --primaryColor variable when the user clicks on the div element. This will showcase the power and flexibility of CSS variables.
