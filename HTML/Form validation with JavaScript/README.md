@@ -1,0 +1,3 @@
+In this lab, you will practice form validation with JavaScript. You need to create a simple form containing a name input field and a submit button. The form should not be submitted if the name input field is empty, and an error message should be displayed.
+
+To do this, you will have to add an event listener to the form's submit event, use the event.preventDefault() method to prevent form submission when the name input field is empty, and modify the content of a div element to display the error message.
