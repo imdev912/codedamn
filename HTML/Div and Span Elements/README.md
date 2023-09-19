@@ -1,0 +1,1 @@
+In this lab, you will learn about div and span elements, two of the most commonly used HTML elements. A div (short for division) is a block-level element that is often used as a container for other HTML elements. A span is an inline element, which means it takes up only as much width as necessary and is typically used for small chunks of HTML inside a line of text.
