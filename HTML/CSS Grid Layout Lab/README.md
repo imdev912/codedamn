@@ -1,0 +1,1 @@
+In this lab, you will create a CSS Grid Layout to display 6 items in a 3x2 layout with specific column widths and row heights. You will be using the display property, along with grid-template-columns, grid-template-rows, and grid-gap properties to achieve the desired result.
