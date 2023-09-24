@@ -1,0 +1,3 @@
+In this hands-on lab, you will create an accessible webpage using HTML, CSS, and JavaScript. The primary objective is to get familiar with best practices in web accessibility and make a webpage compatible with various assistive technologies. The lab will cover different aspects of web accessibility, such as semantic HTML, proper focus management, tab navigation, and accessible forms.
+
+Throughout the lab, be ready to modify your index.html, main.css, and script.js files to solve the challenges. Please make sure to keep your code clean, well-structured, and well-documented. Think about the users who may have difficulty interacting with your website due to disabilities like visual impairments, hearing loss, cognitive disabilities or motor difficulties.
